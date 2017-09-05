@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfcfc">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:baselineAligned="false"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout4">
+        <com.and.wodness.CustomButton
+            android:id="@+id/recover_back_button"
+            android:layout_width="10dp"
+            android:layout_height="12dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/back_img_button" />
+
+        <com.and.wodness.CustomTextView
+            android:id="@+id/customTextView"
+            android:layout_width="312dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="@string/search"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/premium_subscription"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="2"
+        android:baselineAligned="false"
+        android:paddingLeft="1dp"
+        android:background="#d1d1d3"
+        android:layout_below="@+id/linearLayout4"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffffff"
+            android:layout_marginTop="1dp">
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="312dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="@string/loreml"
+                android:paddingLeft="8dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/ic_search" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffff"
+            android:layout_marginTop="1dp">
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/heart" />
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="@string/khan"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription"
+                android:paddingTop="13dp"
+                android:paddingBottom="13dp"/>
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="10dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/back_img_button1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffff"
+            android:layout_marginTop="1dp">
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/heart" />
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="@string/dan"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription"
+                android:paddingTop="13dp"
+                android:paddingBottom="13dp"/>
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="10dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/back_img_button1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffff"
+            android:layout_marginTop="1dp">
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/heart" />
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="@string/gui"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription"
+                android:paddingTop="13dp"
+                android:paddingBottom="13dp"/>
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="10dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/back_img_button1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffff"
+            android:layout_marginTop="1dp">
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/heart" />
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:paddingBottom="13dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="13dp"
+                android:text="@string/jul"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription" />
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="10dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/back_img_button1" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1"
+            android:baselineAligned="false"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="#ffff"
+            android:layout_marginTop="1dp">
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="1dp"
+                android:background="@drawable/heart" />
+
+
+            <com.and.wodness.CustomTextView
+                android:id="@+id/customTextView"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="@string/brent"
+                android:paddingLeft="20dp"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/premium_subscription"
+                android:paddingTop="13dp"
+                android:paddingBottom="13dp"/>
+
+            <com.and.wodness.CustomButton
+                android:id="@+id/recover_back_button"
+                android:layout_width="10dp"
+                android:layout_height="12dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/back_img_button1" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="false"
+        android:orientation="vertical"
+        android:weightSum="2"
+        android:baselineAligned="false"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="12dp"
+        android:background="@color/colorWhite"
+        android:paddingTop="96dp"
+
+        >
+        <com.and.wodness.CustomTextView
+            android:id="@+id/customTextView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="@string/dont"
+            android:paddingLeft="20dp"
+            android:paddingTop="20dp"
+            android:textColor="@color/tabDark"
+            android:textSize="@dimen/custom_strenght"
+            android:background="@color/colorWhite"
+            android:layout_marginTop="18dp"
+            />
+
+        <com.and.wodness.CustomButton
+            android:id="@+id/recover_reset_password_button"
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/premium"
+            android:text="@string/here"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/recover_reset_pwd_textsize" />
+    </LinearLayout>
+
+</RelativeLayout>

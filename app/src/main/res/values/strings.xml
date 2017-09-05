@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Wodness</string>
+
+    <string name="splash_app_logo_name">WODNESS</string>
+
+    <string name="scrub_empty">Tap and hold the graph to scrub.</string>
+    <string name="scrub_format">Scrubbing value: %1$s</string>
+    <string name="randomize">Randomize</string>
+
+    <string name="first_login_str1">DON\'T TRAIN ALONE</string>
+    <string name="first_login_str2">YOU\'VE GOT A NEW PARTNER</string>
+    <string name="first_login_joinus_str">J O I N &#160; U S</string>
+    <string name="first_login_login_str">L O G &#160; I N</string>
+
+    <string name="usernameoremail_hint"><font size="13">U S E R N A M E &#160;O R&#160; E M A I L</font></string>
+    <string name="password_hint"><font size="13">P A S S W O R D</font></string>
+    <string name="username_hint"><font size="13">U S E R N A M E</font></string>
+    <string name="email_hint"><font size="13">E M A I L</font></string>
+    <string name="login_progress_str">TRAIN HARDER. RECORD &amp; PROGRESS</string>
+    <string name="login_login_button">L O G I N</string>
+    <string name="login_withfb_button">LOGIN WITH FACEBOOK</string>
+    <string name="login_forgot_pwd_button">FORGOT PASSWORD?</string>
+
+    <string name="str_alert_msg_enter_email">Please enter email.</string>
+    <string name="str_alert_msg_invalid_email">Invalid email.</string>
+    <string name="str_alert_msg_enter_password">Please enter password.</string>
+    <string name="str_alert_msg_invalid_username_or_password">Invalid username or password.</string>
+
+    <string name="joinus_connect_fb">CONNECTING WITH FACEBOOK</string>
+    <string name="joinus_create_account">CREATE AN ACCOUNT</string>
+    <string name="joinus_or_str">OR</string>
+    <string name="joinus_center_text">BY USING UP TO WODNESS, YOU AGREE TO OUR </string>
+
+    <string name="joinus_member_text">ALREADY MEMBER?</string>
+    <string name="joinus_login_text">LOGIN</string>
+    <string name="joinus_firstname_hint"><font size="11">F I R S T &#160; N A M E</font></string>
+    <string name="joinus_lastname_hint"><font size="11">L A S T &#160; N A M E</font></string>
+    <string name="joinus_datename_hint"><font size="11">D D / M M / Y Y Y Y</font></string>
+    <string name="joinus_gender_hint"><font size="11">G E N D E R</font></string>
+    <string name="joinus_height_hint"><font size="11">H E I G H T</font></string>
+    <string name="joinus_weight_hint"><font size="11">W E I G H T</font></string>
+    <string name="joinus_username_hint"><font size="11">U S E R N A M E</font></string>
+    <string name="joinus_email_hint"><font size="11">E M A I L</font></string>
+    <string name="joinus_country_hint"><font size="11">C O U N T R Y</font></string>
+
+
+    <string name="recover_title_str">R E C O V E R</string>
+    <string name="recover_back_btn">&lt; BACK</string>
+    <string name="recover_reset_pwd">RESET PASSWORD</string>
+
+    <string name="profile_take_photo_string">TAKE A PHOTO</string>
+
+    <string name="main_profile_photo_text_hello">Hello Dlmitri!</string>
+    <string name="main_profile_photo_text_ready">Ready to break some</string>
+    <string name="main_profile_photo_text_records">records?</string>
+
+    <string name="profile_status_title_str">P R O F I L E</string>
+    <string name="profile_status_modify_button_str">MODIFY</string>
+    <string name="profile_status_person_name">Dimitri Corbeau</string>
+    <string name="profile_status_email_name">dimicobe20@gmail.com</string>
+    <string name="profile_status_change_pwd_button_str">CHANGE PASSWORD</string>
+</resources>

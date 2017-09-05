@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Wodness</string>
+
+    <string name="splash_app_logo_name">WODNESS</string>
+
+    <string name="scrub_empty">Tap and hold the graph to scrub.</string>
+    <string name="scrub_format">Scrubbing value: %1$s</string>
+    <string name="randomize">Randomize</string>
+
+    <string name="first_login_str1">DON\'T TRAIN ALONE</string>
+    <string name="first_login_str2">YOU\'VE GOT A NEW PARTNER</string>
+    <string name="first_login_joinus_str">JOIN US</string>
+    <string name="first_login_login_str">LOG IN</string>
+
+    <string name="usernameoremail_hint"><font size="13">U S E R N A M E &#160;O R&#160; E M A I L</font></string>
+    <string name="password_hint"><font size="13">P A S S W O R D</font></string>
+    <string name="username_hint"><font size="13">U S E R N A M E</font></string>
+    <string name="email_hint"><font size="13">E M A I L</font></string>
+    <string name="login_progress_str">TRAIN HARDER. RECORD &amp; PROGRESS</string>
+    <string name="login_login_button">L O G I N</string>
+    <string name="login_withfb_button">LOGIN WITH FACEBOOK</string>
+    <string name="login_forgot_pwd_button">FORGOT PASSWORD?</string>
+
+    <string name="str_alert_msg_enter_email">Please enter email.</string>
+    <string name="str_alert_msg_invalid_email">Invalid email.</string>
+    <string name="str_alert_msg_enter_password">Please enter password.</string>
+    <string name="str_alert_msg_invalid_username_or_password">Invalid username or password.</string>
+
+    <string name="joinus_connect_fb">CONNECTING WITH FACEBOOK</string>
+    <string name="joinus_create_account">CREATE AN ACCOUNT</string>
+    <string name="joinus_or_str">OR</string>
+    <string name="joinus_center_text">BY USING UP TO WODNESS, YOU AGREE TO OUR </string>
+
+    <string name="joinus_member_text">ALREADY MEMBER?</string>
+    <string name="joinus_login_text">LOGIN</string>
+    <string name="joinus_firstname_hint"><font size="11">F I R S T &#160; N A M E</font></string>
+    <string name="joinus_lastname_hint"><font size="11">L A S T &#160; N A M E</font></string>
+    <string name="joinus_datename_hint"><font size="11">D D / M M / Y Y Y Y</font></string>
+    <string name="joinus_gender_hint"><font size="11">G E N D E R</font></string>
+    <string name="joinus_height_hint"><font size="11">H E I G H T</font></string>
+    <string name="joinus_weight_hint"><font size="11">W E I G H T</font></string>
+    <string name="joinus_username_hint"><font size="11">U S E R N A M E</font></string>
+    <string name="joinus_email_hint"><font size="11">E M A I L</font></string>
+    <string name="joinus_country_hint"><font size="11">C O U N T R Y</font></string>
+
+
+    <string name="recover_title_str">R E C O V E R</string>
+    <string name="recover_back_btn">&lt; BACK</string>
+    <string name="recover_reset_pwd">RESET PASSWORD</string>
+
+    <string name="profile_take_photo_string">TAKE A PHOTO</string>
+
+    <string name="main_profile_photo_text_hello">Hello Dlmitri!</string>
+    <string name="main_profile_photo_text_ready">Ready to break some</string>
+    <string name="main_profile_photo_text_records">records?</string>
+
+    <string name="profile_status_title_str">P R O F I L E</string>
+    <string name="profile_status_modify_button_str">MODIFY</string>
+    <string name="profile_status_person_name">Dimitri Corbeau</string>
+    <string name="profile_status_email_name">dimicobe20@gmail.com</string>
+    <string name="profile_status_change_pwd_button_str">CHANGE PASSWORD</string>
+    <string name="premium_subscription">P R E M I U M &#160;S U B S C R I P T I O N</string>
+    <string name="custom_strenght"> C U S T O M &#160;S T R E N G H T &#160;P R O G R A M </string>
+    <string name="custom_strenght_text">More&#160;movements&#160;whit&#160;more&#160;variet&#160;ultimately&#160;leads&#160;to&#160;more&#160;gains.
+    Wodness&#160;strenght&#160;program&#160;intuitively&#160;scales&#160;your&#160;workout&#160;to
+    your&#160;ability&#160;--so&#160;get&#160;your&#160;barbells&#160;and&#160;bumper&#160;plates&#160;out,
+    because&#160;the&#160;addition&#160;of&#160;your&#160;exclusive&#160;strenght&#160;component&#160;is&#160;
+    something&#160;you&#160;can't&#160;afford&#160;to&#160;miss</string>
+    <string name="log">L O G&#160;&amp;&#160;T R A C K &#160;A L L&#160; O F &#160; Y O U R&#160; M A X E Z </string>
+    <string name="log_text">In&#160; addition to savings your favorite workouts, premium users
+                          can&#160; now effortlessly update and track the progression of their
+      one&#160; and five rep maxes
+</string>
+    <string name="coach">C O A C H&#160;   G E N E R A T E D &#160; W O D S </string>
+    <string name="coach_text">Follow&#160; along and put your fitness skills to the test as new WODs
+are posted daily straight from their&#160; programming journals !
+&#160;For those of you want options, WODNESS Premium members&#160; still
+Have success to our exclusive Benchmark,&#160; Heroes &#160;WOD and much more.
+
+</string>
+    <string name="per">1.99€ per MONTH\n
+        (0.07€ PER DAY)</string>
+    <string name="per1">20.99€ per YEAR\n
+        (0.06€ PER DAY)</string>
+    <string name="cancel">CANCEL &#160;  YOUR &#160;MEMBERSHIP</string>
+    <string name="still"> S T I L L &#160;N E E D &#160;H E L P ? </string>
+    <string name="help"> H E L P &#160;S U P P O R T  </string>
+    <string name="feature"> Feature &#160;Request </string>
+    <string name="search">S E A R C H &#160;  C O A C H</string>
+    <string name="search1">S E A R C H  &#160; B O X</string>
+    <string name="loreml">Loreml&#160;</string>
+    <string name="khan">Khan &#160;Porter</string>
+    <string name="dan">Dun&#160; Bailey</string>
+    <string name="gui">Guillaume&#160; Piffeteau</string>
+    <string name="jul">Julien&#160; Tanvet-Abadia</string>
+    <string name="brent">Brent&#160; Fikowski</string>
+    <string name="dont">DON\'T&#160; FIND &#160;YOUR &#160;COACH ?</string>
+    <string name="dont1">DON\'T&#160; FIND &#160;YOUR &#160;BOX ?</string>
+    <string name="here">H&#160; E &#160;R &#160;E</string>
+    <string name="lbbox">LB&#160; Box</string>
+    <string name="astera">Astera&#160; Fit</string>
+    <string name="dfx">DFX&#160; Fit</string>
+    <string name="wii">WiiFit&#160;</string>
+    <string name="great">Great&#160; You</string>
+    <string name="add">A D D&#160;A B O X</string>
+    <string name="add1">A D D &#160;A &#160;C O A C H</string>
+    <string name="name">N A M E</string>
+    <string name="add_a_logo">A D D &#160; L O G O</string>
+    <string name="add_a_phone">A D D &#160; P H O N E</string>
+    <string name="address">A D D R E S S</string>
+    <string name="phone">P H O N E</string>
+    <string name="nameofowner">N A M E &#160;O F &#160;O W N E R</string>
+    <string name="submit">S U B M I T</string>
+
+
+
+</resources>
